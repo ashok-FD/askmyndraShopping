@@ -3,7 +3,7 @@ II-sem project
 
 First you should import db in mongodb Shell or mongodb compass
 -----------------------------------------------------------------------------------------------
-!----Instructions are inside of mongo exports file-----!
+!----Instructions are inside of mongoDb exports file-----!
 
 -----------------------------------------------------------------------------------------------
 
