@@ -1,0 +1,3 @@
+Export database : mongodump -d dbname -o c:/mongoExports
+
+Import database : mongorestore -d dbname -c collection_name path/file.bson
